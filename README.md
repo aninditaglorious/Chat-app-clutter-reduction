@@ -2,4 +2,4 @@ Executive SummaryTraditional messaging platforms (WhatsApp, Telegram, Slack) ope
 PAR Formula: G_p = (Unique_Views * alpha) + (SRR_Alpha_Count * beta) / Total_Nodes
 Impact: High-value solutions physically "pull" themselves to the top of the interface, ensuring the most useful info is always visible first.Case Study: The "Humanities Cluster"Integrated within the CSFSocial Ecosystem.This project demonstrates how a Handwritten Research Note can become a "Trunk" for a live knowledge tree, where Ghost Projections allow non-tech-savvy users to contribute while "Engineers" audit the data in the Forge.Technical Specs (For the Architects)Protocol: SCCP v1.0 (Production-Ready Design).Core Ledger: A2.log (Distributed Logic Ledger).Identity: Digital DNA (Decentralized Reputation).Sync: Vector Clock-based Conflict Resolution.
 
-Author Profile[Anindita Ray] Product Strategist Focusing on the intersection of Human Psychology, Data Visualization, and Elite User Experiences.
+Author Profile Anindita Ray Product Strategist Focusing on the intersection of Human Psychology, Data Visualization, and User Experiences.
